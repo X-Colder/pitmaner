@@ -10,4 +10,5 @@ Welcome to pitmaner's documentation!
    :maxdepth: 2
 
 
-   _source/Python/index
+   _source/Python/Basic/index
+   _source/Python/Advance/index
