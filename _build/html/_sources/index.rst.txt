@@ -10,12 +10,4 @@ Welcome to pitmaner's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-* :ref:`pitmaner`
+   _source/Python/index
