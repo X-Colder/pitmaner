@@ -10,5 +10,5 @@ Welcome to pitmaner's documentation!
    :maxdepth: 2
 
 
-   _source/MLearning/Basic/index
-   _source/MLearning/Advance/index
+   _source/MLearning/chapter_1/index
+   _source/MLearning/chapter_2/index
