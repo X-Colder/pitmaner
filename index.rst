@@ -12,3 +12,20 @@ Welcome to pitmaner's documentation!
 
    _source/MLearning/chapter_1/index
    _source/MLearning/chapter_2/index
+   _source/MLearning/chapter_3/index
+   _source/MLearning/chapter_4/index
+   _source/MLearning/chapter_5/index
+   _source/MLearning/chapter_6/index
+   _source/MLearning/chapter_7/index
+   _source/MLearning/chapter_8/index
+   _source/MLearning/chapter_9/index
+   _source/MLearning/chapter_10/index
+   _source/MLearning/chapter_11/index
+   _source/MLearning/chapter_12/index
+   _source/MLearning/chapter_13/index
+   _source/MLearning/chapter_14/index
+   _source/MLearning/chapter_15/index
+   _source/MLearning/chapter_16/index
+   _source/MLearning/chapter_17/index
+   _source/MLearning/chapter_18/index
+   _source/MLearning/chapter_19/index
