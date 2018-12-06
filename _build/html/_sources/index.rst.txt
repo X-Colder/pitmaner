@@ -29,3 +29,4 @@ Welcome to pitmaner's documentation!
    _source/MLearning/chapter_17/index
    _source/MLearning/chapter_18/index
    _source/MLearning/chapter_19/index
+   _source/Python/concepts/index
